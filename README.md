@@ -6,8 +6,8 @@ Hi there 👋 I'm fhiromasa, a software engineer from Japan.
 
 ### MTML language provider
 
-[vscode marketplace](https://marketplace.visualstudio.com/items?itemName=fhiromasa.mtml-language-provider),
-[github repository](https://github.com/fhiromasa/mtml-language-provider)
+- [vscode marketplace](https://marketplace.visualstudio.com/items?itemName=fhiromasa.mtml-language-provider),
+- [github repository](https://github.com/fhiromasa/mtml-language-provider)
 
 ---
 
