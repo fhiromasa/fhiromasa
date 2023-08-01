@@ -2,7 +2,7 @@
 
 Hi there 👋 I'm fhiromasa, a software engineer from Japan.
 
-## My Publication
+## My Product
 
 ### MTML language provider
 
